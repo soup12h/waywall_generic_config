@@ -1,4 +1,4 @@
-# Waywall-generic-config
+# Waywall-generic-config (with Waywork)
 
 ## Features:
 - Configurable colors for mirrors and background
@@ -10,7 +10,8 @@
 - Stretched and normal measuring overlays
 - Compatible with Char's resize animations https://github.com/char3210/resize_animation/blob/main/resize_animation_waywall.py
 - Support for resolution specific overlays for borders and more
-- Optional automatic mouse [sensitivity](https://github.com/Esensats/mcsr-calcsens) switching for boat eye 
+- Optional automatic mouse [sensitivity](https://github.com/Esensats/mcsr-calcsens) switching for boat eye
+- The titular feature: the use of [Waywork](https://github.com/Esensats/waywork/tree/f0b84240c63f4a13d6a8cb54a037424d5d64329a}
 
 Please ask in #public-help in the linux mcsr discord server (linked in the guide) if you need any help configuring anything. You don't need to ping me specifically as most of the helpers know how to use this config. Please ping me if you find any bugs! (I don't typically respond to Discord DMs)
 
@@ -82,3 +83,5 @@ If you have a 1440p monitor, add this argument to the clone command `-b 1440`
 
 ## Credits:
 Huge thanks to @dariasc on Discord for creating the original config that evolved into this project.
+Huge thanks to @goreay_12 on Dicsord for creating the original generic config.
+Huge thanks to @seangle on Discord for creating Waywork.
